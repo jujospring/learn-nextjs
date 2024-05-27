@@ -1,2 +1,2 @@
-# nextjs-starter
+# learn-nextjs
  Learning NextJS
